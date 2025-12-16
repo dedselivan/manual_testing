@@ -2,4 +2,4 @@
 
 **Задача:** На основе данных о количестве багов, приоритете функций и наличии автотестов принять решение, какие функции необходимо включать в регрессионный набор тестов после нового релиза.
 
-[Скачать файл с анализом](https://docs.google.com/spreadsheets/d/16tHsL1LX1TZkw8pjaxqfFfU_uKlbddGz5DcoGypCKpA/edit?usp=sharing)
+[Открыть файл с анализом](https://docs.google.com/spreadsheets/d/16tHsL1LX1TZkw8pjaxqfFfU_uKlbddGz5DcoGypCKpA/edit?usp=sharing)
