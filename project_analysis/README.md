@@ -8,7 +8,7 @@
 - Проанализировал 11 фич по 4 критериям: приоритет, стабильность, автоматизация, бизнес-критичность.  
 - Принял решение по каждой фиче: включать в регрессию / не включать / частично.
 
-📁 [Открыть файл с анализом](https://docs.google.com/spreadsheets/d/16tHsL1LX1TZkw8pjaxqfFfU_uKlbddGz5DcoGypCKpA/edit?usp=sharing)
+📁 [Открыть файл с анализом (Google Sheets)](https://docs.google.com/spreadsheets/d/16tHsL1LX1TZkw8pjaxqfFfU_uKlbddGz5DcoGypCKpA/edit?usp=sharing)
 
 
 
