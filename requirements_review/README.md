@@ -9,7 +9,7 @@
 ["Выход из системы"](https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646)<br>
 ["Проверка авторизации перед доступом к функциональности"](https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c)<br>
 
-**Таблица с анализом и макет:**
+**Таблица с анализом и макет:**<br>
 🔗["Открыть файл с анализом(Google Sheets)"](https://docs.google.com/spreadsheets/d/1NPwcOYyVcdaiqATy_-6GGpoEEC4qgdBG/edit?usp=sharing&ouid=112207370130935561336&rtpof=true&sd=true)
 
 🖼️ [Макет в Figma](https://www.figma.com/design/2T99Jt5OHPqkhe4yyoe2IC/demoshopping.ru?node-id=0-1&p=f)
