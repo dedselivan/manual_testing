@@ -32,3 +32,5 @@
 🖼️[Макет в Figma](https://www.figma.com/design/2T99Jt5OHPqkhe4yyoe2IC/demoshopping.ru?node-id=3-670)
 
 ⚙️[Шаблон Таблицы](https://docs.google.com/spreadsheets/d/13Nu3Xix8FuuKmFSTibgc_O7ClobtHkxFAaZqpHToNHY/edit?pli=1&gid=0#gid=0)
+
+🔗[Таблица тестовых данных (Google Sheets)](https://docs.google.com/spreadsheets/d/1YWGCdHRp3JbzQAFqJYMvA-lbYRjXvjQs/edit?usp=sharing&ouid=112207370130935561336&rtpof=true&sd=true)
