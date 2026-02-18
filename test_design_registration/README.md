@@ -30,3 +30,5 @@
 **Шаблон таблицы и макет:**
 
 🖼️[Макет в Figma](https://www.figma.com/design/2T99Jt5OHPqkhe4yyoe2IC/demoshopping.ru?node-id=3-670)
+
+⚙️[Шаблон Таблицы](https://docs.google.com/spreadsheets/d/13Nu3Xix8FuuKmFSTibgc_O7ClobtHkxFAaZqpHToNHY/edit?pli=1&gid=0#gid=0)
