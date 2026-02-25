@@ -20,4 +20,4 @@
 
 🔗 [Задание 4. Тестирование формы регистрации](test_design_registration/)
 
-🔗[Задание 5. Тестирование фильтрации и  сортировки](pairwise_testing_filter_sort/)
+🔗 [Задание 5. Тестирование фильтрации и  сортировки](pairwise_testing_filter_sort/)
