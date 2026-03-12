@@ -20,4 +20,4 @@
 
 4. Используйте тестовые данные, которые вы создавали в домашнем задании про классы эквивалентности.
 
-🔗 [Полный набор тест-кейсов (PDF)] (https://drive.google.com/file/d/1OZ9VWL_KLwWTJZ-vpErO7NiG5oCxOKOu/view?usp=sharing)
+🔗 [Полный набор тест-кейсов (PDF)](https://drive.google.com/file/d/1OZ9VWL_KLwWTJZ-vpErO7NiG5oCxOKOu/view?usp=sharing)
