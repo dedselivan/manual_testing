@@ -18,8 +18,10 @@
 
 🔗 [Задание 3: Анализ требований и макета](requirements_review/)
 
-🔗 [Задание 4. Тестирование формы регистрации](test_design_registration/)
+🔗 [Задание 4: Тестирование формы регистрации](test_design_registration/)
 
-🔗 [Задание 5. Тестирование фильтрации и  сортировки](pairwise_testing_filter_sort/)
+🔗 [Задание 5: Тестирование фильтрации и  сортировки](pairwise_testing_filter_sort/)
 
-🔗 [Задание 6. Создаем чек-лист для тестирования регистрации и логина](checklist_registration_login/)
+🔗 [Задание 6: Создаем чек-лист для тестирования регистрации и логина](checklist_registration_login/)
+
+🔗 [Задание 7: Создаем тест-кейсы](test_cases_registration_login/)
