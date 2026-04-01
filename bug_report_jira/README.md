@@ -2,4 +2,4 @@
 
 **Инструмент**: Jira (формат отчёта) + testIT (связь с тест-кейсами)  
 **Приложение**: [demoshopping.ru](https://intern.demoshopping.ru/)  
-**Требование**: [ID1 — Регистрация пользователя](https://rusau.kaiten.ru/p/d/5b275ec1-e6df-47a4-9648-d422f4a387f3)
+**Требование**: [ID1 — Регистрация пользователя]([https://rusau.kaiten.ru/p/d/5b275ec1-e6df-47a4-9648-d422f4a387f3](https://rusau.kaiten.ru/p/d/731b641b-545d-4311-a691-c397a21eb1bd)
